@@ -1,0 +1,22 @@
+.body {
+    background-color: darkslategray;
+}
+
+.dailyHeader {
+    text-align: center;
+    background-color: aquamarine;
+    color: coral;
+    margin-top: 15px;
+}
+
+.time-block {
+    font-size: 20px;
+}
+
+.h-75 {
+    background-color: #ffffff;
+    margin: 10px 0px 10px 0px;
+    /* border: darkcyan, 3px;
+    border-style: double;
+     */
+}
