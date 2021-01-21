@@ -2,9 +2,10 @@
 // loop to pass through if time is in the past to grey it out and keep future green
 // localstorage to save plans for said day
 
-const $dateTime = $(".dateTime");
+var $dateTime = $(".dateTime");
+let now = dayjs();
 
-function dateTime() {
-    $dateTime.innerHTML = dayjs().format('LLLL')
+function date() {
+    $dateTime.text(now.format("dddd, MMMM D, YYYY h:mm A"));
 };
-dateTime();
+date();
