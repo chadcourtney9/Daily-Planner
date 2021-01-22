@@ -18,15 +18,17 @@ h2.dateTime {
     font-size: 20px;
 }
 .h-75 {
-    background-color: #ffffff;
     margin: 10px 0px 10px 0px;
+    color: #ffffff;
 }
 .present {
     background-color: #0047ab;
+    color: beige;
 }
 .future {
     background-color: #5d9451;
 }
-.past{
-    background-color: #4A0000
+.past {
+    background-color: #4A0000;
+    color:white
 }
