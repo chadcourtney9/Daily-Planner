@@ -1,33 +1,32 @@
 .body {
     background-color: darkslategray;
 }
-
-.dailyHeader {
+ h1.dailyHeader {
     text-align: center;
-    background-color: aquamarine;
-    color: coral;
+    background-color: darkslateblue;
+    color: lavender;
     margin-top: 15px;
 }
-
-.time-block {
-    font-size: 20px;
-}
-
-.h-75 {
-    background-color: #ffffff;
-    margin: 10px 0px 10px 0px;
-    /* border: darkcyan, 3px;
-    border-style: double;
-     */
-}
-.dateTime {
+h2.dateTime {
     text-align: center;
     color: #ffffff;
 }
 
-/* .present {
+.time-block {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.h-75 {
+    background-color: #ffffff;
+    margin: 10px 0px 10px 0px;
+}
+.present {
+    background-color: #0047ab;
 }
 .future {
+    background-color: #5d9451;
 }
 .past{
-} */
+    background-color: #4A0000
+}
