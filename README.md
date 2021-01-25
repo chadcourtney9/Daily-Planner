@@ -14,7 +14,7 @@
 
 # Lighthouse
 
-![img of lighthouse results]()
+![img of lighthouse results](https://github.com/chadcourtney9/Daily-Planner/blob/main/assets/images/lighthouse.PNG)
 
 ### Licenses 
 
