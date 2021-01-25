@@ -10,7 +10,7 @@
 
 # Preview
 
-![img of preview]()
+![img of preview](https://github.com/chadcourtney9/Daily-Planner/blob/main/assets/images/page-image-layout.PNG)
 
 # Lighthouse
 
