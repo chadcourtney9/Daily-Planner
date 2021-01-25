@@ -7,6 +7,7 @@
     color: lavender;
     margin-top: 15px;
 }
+/* making time centered */
 h2.dateTime {
     text-align: center;
     color: #ffffff;
@@ -17,18 +18,22 @@ h2.dateTime {
     font-weight: bolder;
     font-size: 20px;
 }
+/* added spacing to the divs */
 .h-75 {
     margin: 10px 0px 10px 0px;
     color: #ffffff;
 }
+/* to change color of present */
 .present {
     background-color: #0047ab;
     color: beige;
 }
+/* changing color of future times */
 .future {
     background-color: #5d9451;
     color: #ffffff;
 }
+/* changes color of past times */
 .past {
     background-color: #4A0000;
     color:white
