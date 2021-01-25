@@ -27,6 +27,7 @@ h2.dateTime {
 }
 .future {
     background-color: #5d9451;
+    color: #ffffff;
 }
 .past {
     background-color: #4A0000;
